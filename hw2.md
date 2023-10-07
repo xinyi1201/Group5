@@ -24,6 +24,6 @@ gantt
     使用者回饋    :a7, after a6 , 3d
     更新程式內容  :a8, after a7 , 7d
 ```
-## PERT/CRM & 關鍵路徑
+## PERT/CRM
 ![group_pert2](group_pert2.PNG)
 
