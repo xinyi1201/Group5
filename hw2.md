@@ -14,3 +14,5 @@
 
 ## PERT/CRM
 ![group_pert](group_pert.PNG)
+
+## 關鍵路徑
