@@ -25,5 +25,5 @@ gantt
     更新程式內容  :a8, after a7 , 7d
 ```
 ## PERT/CRM & 關鍵路徑
-![group_pert](group_pert.PNG)
+![group_pert2](group_pert2.PNG)
 
