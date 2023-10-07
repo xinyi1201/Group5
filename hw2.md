@@ -25,5 +25,5 @@ gantt
     更新程式內容  :a8, after a7 , 7d
 ```
 ## PERT/CRM
-![pert](pert.png)
+![小組pert的副本.png](小組pert的副本.png)
 
