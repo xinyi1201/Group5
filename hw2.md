@@ -19,11 +19,11 @@ gantt
     設定主題     :a1, 2023-10-03, 0.5d
     分配工作     :a2, after a1, 0.5d
     程式開發     :a3, after a2 , 50d
-    程式測試     :a4, after a3  , 10d 3
-    撰寫使用手冊 :a5, after  a4  , 5d 2
-    系統測試     :a6, after a5  , 7d 2
-    使用者回饋    :a7, after a6 , 3d 5
-    更新程式內容  :a8, after a7 , 7d 3
+    程式測試     :a4, after a3  , 10d
+    撰寫使用手冊 :a5, after  a4  , 5d
+    系統測試     :a6, after a5  , 7d
+    使用者回饋    :a7, after a6 , 3d
+    更新程式內容  :a8, after a7 , 7d
 ```
 ## PERT/CRM & 關鍵路徑
 ![group_pert](group_pert.PNG)
