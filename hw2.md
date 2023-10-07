@@ -12,7 +12,6 @@
 開始時間 10/3 結束12/24
 ## 甘特圖
 
-## PERT/CRM
+## PERT/CRM & 關鍵路徑
 ![group_pert](group_pert.PNG)
 
-## 關鍵路徑
