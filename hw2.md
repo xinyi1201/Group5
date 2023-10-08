@@ -26,4 +26,4 @@ gantt
 ```
 ## PERT/CRM
 ![group_pert2](group_pert2.PNG)
-![pert](pert.PNG)
+![pert](pert.png)
