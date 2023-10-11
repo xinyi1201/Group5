@@ -25,4 +25,4 @@ gantt
     更新程式內容  :a8, after a7 , 7d
 ```
 ## PERT/CRM
-![pert](pert.png)
+![PERT](PERT.jpg)
