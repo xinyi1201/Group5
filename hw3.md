@@ -1,4 +1,4 @@
-輔導室Line bot的管理系統的需求分析簡述如下：
+#  輔導室Line bot的管理系統的需求分析簡述如下：
 (1) 管理者可以藉由載入(Load) 貨品清單(Inventory) 資料來產生報表(Inventory Reports)。
 (2) 管理者可以藉由載入以及儲存貨品資料。
 (3) 銷售人員(Sales Clerk) 紀錄現場的貨品銷售。
