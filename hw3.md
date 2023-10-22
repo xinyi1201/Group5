@@ -35,7 +35,7 @@
 ---
 
 呈現功能分解圖
-![FDD]FDD.PNG)
+![FDD](FDD.PNG)
 ---
 
 
