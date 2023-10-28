@@ -12,7 +12,7 @@
 ## 甘特圖
 ```mermaid
 gantt
-    title hw2
+    title 輔導室line bot甘特圖
 
     section Section
     設定主題     :a1, 2023-10-03, 0.5d
