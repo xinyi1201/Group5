@@ -9,6 +9,9 @@
 
 ![image](https://github.com/xinyi1201/Group5/assets/145426911/fb7fcb6f-792a-4d44-8917-6a4b07a09a96)
 
+![image](https://github.com/xinyi1201/Group5/assets/145426911/0a73dc0d-5539-4a0e-9c2b-c7cb0509b726)
+
+
 使用心理測驗功能
 
 ![image](https://github.com/xinyi1201/Group5/assets/145426911/b015288a-017a-4465-8ef0-00c6c2da0fec)
