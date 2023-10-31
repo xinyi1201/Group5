@@ -13,6 +13,9 @@
 
 ![image](https://github.com/xinyi1201/Group5/assets/145426911/b015288a-017a-4465-8ef0-00c6c2da0fec)
 
+![image](https://github.com/xinyi1201/Group5/assets/145426911/65903a7f-bce9-4bd5-8d8a-09c8d12daea4)
+
+
 使用查看最新活動功能
 
 ![image](https://github.com/xinyi1201/Group5/assets/145426911/5a03f591-4b59-4a28-bda4-fb7e5b3a8258)
