@@ -17,11 +17,11 @@ gantt
     section Section
     設定主題     :a1, 2023-10-03, 0.5d
     分配工作     :a2, after a1, 0.5d
-    程式開發     :a3, after a2 , 73d
-    程式測試     :a4, after a2  , 10d
+    程式開發     :a3, after a2 , 72d
+    程式測試     :a4, 2023-11-23 , 10d
     撰寫使用手冊 :a5, after  a4  , 5d
     系統測試     :a6, after a5  , 7d
-    使用者回饋    :a7, after a6 , 3d
+    使用者回饋    :a7, after a3 , 3d
     更新程式內容  :a8, after a7 , 7d
 ```
 ## PERT/CRM
