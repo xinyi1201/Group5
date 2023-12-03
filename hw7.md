@@ -1,1 +1,1 @@
-![ERD](ERD.PNG)
+![ERD](ERD.png)
