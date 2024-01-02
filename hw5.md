@@ -1,7 +1,5 @@
 # 繪出UML 類別圖(class Diagram)
-
-![image](https://github.com/xinyi1201/Group5/assets/145426911/9ce8e717-c059-4a82-913f-a45138c69972)
-
+<img width="430" alt="image" src="https://github.com/xinyi1201/Group5/assets/145433039/943deb3d-3a01-4642-a834-ed04394eeeba">
 
 # 繪製循序圖與活動圖 (須至少有三項以上的 使用案例，每個使用案例一個循序圖與活動圖)
 
